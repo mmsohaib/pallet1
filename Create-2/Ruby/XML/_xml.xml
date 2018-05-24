@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE editor_palette_item PUBLIC "-//NetBeans//Editor Palette Item 1.1//EN" "https://netbeans.org/dtds/editor-palette-item-1_1.dtd">
+<editor_palette_item version="1.1">
+    <class name="org.netbeans.modules.multilangsourcefilepalette.Ruby."/>
+    <icon16 url="org/netbeans/modules/multilangsourcefilepalette/icons/array16.png"/>
+    <icon32 url="org/netbeans/modules/multilangourcefilepalette/icons/BR32.png"/>
+    <inline-description>
+        <display-name/>
+        <tooltip>This is a hashSet which allows us to create blah blah blah.</tooltip>
+    </inline-description>
+</editor_palette_item>
